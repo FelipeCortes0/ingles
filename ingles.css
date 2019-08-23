@@ -1,0 +1,74 @@
+body {
+
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    
+    }
+#contenedorGustos{
+    color : white;
+}
+
+#gustos {
+    text-align: center;
+}
+
+#media {
+    width: 100%;    
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
+#año{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+#añoreal{
+    position: absolute;
+    left: 46%;
+    top: 62%;
+}
+
+#autorreal{
+    position: absolute;
+    left: 62%;
+    top: 62%;
+}
+
+#generoreal{
+    position: absolute;
+    left: 85%;
+    top: 62%;
+}
+#posada{
+    width: 100%;    
+}
+#autor{
+    position: absolute;
+    left: 64%;
+    top: 32%;
+}
+#genero{
+    position: absolute;
+    left: 86%;
+    top: 32%;
+}
+h1{
+    text-align: center;
+}
+
+hr.type_12 {
+    border: 0;
+    height: 55px;
+    background: transparent url(hr3.png) no-repeat center center;
+}
+
+audio {
+margin-left: 600px;
+}
+
+
